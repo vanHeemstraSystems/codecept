@@ -1,8 +1,9 @@
-repositorynaam
+codecept
 
-# Naam van opslagplaats
+# Codecept
 
-> Slaklijn
+> Supercharged Eind 2 Einde testen
+> Eerste AI-aangedreven testframework 🪄
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
