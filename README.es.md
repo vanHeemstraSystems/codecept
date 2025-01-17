@@ -6,7 +6,7 @@ nombre-repositorio
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Glosario](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
@@ -15,7 +15,7 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
 Generado con[ritr](https://app.rytr.me)
 
