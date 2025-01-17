@@ -1,7 +1,8 @@
-repository-name
-# Repository Name
+codecept
+# Codecept
 
-> Slugline
+> Supercharged End 2 End Testing
+> First AI-powered testing framework 🪄
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
