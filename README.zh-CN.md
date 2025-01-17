@@ -2,8 +2,8 @@
 
 # 代码概念
 
-> 增压端2端测试
-> 第一个人工智能驱动的测试框架🪄
+> Supercharged End 2 End Testing
+> First AI-powered testing framework 🪄
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -39,7 +39,7 @@
       I.say(`Created a store with ${storeId}`);                   // Print custom comments
     }).tag('stores');`;
 
-生成于[里特尔](https://app.rytr.me)
+Generated with [里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
@@ -47,7 +47,7 @@
 
 ## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
