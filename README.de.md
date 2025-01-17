@@ -1,8 +1,9 @@
-repository-name
+Codecept
 
-# Repository-Name
+# Codecept
 
-> Slugline
+> End-2-End-Test mit Kompressor
+> Erstes KI-gestütztes Test-Framework 🪄
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -10,10 +11,10 @@ repository-name
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
