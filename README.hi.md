@@ -41,15 +41,15 @@
 
 के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
