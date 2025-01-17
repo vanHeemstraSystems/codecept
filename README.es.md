@@ -1,12 +1,13 @@
-nombre-repositorio
+codecepto
 
-# Nombre del repositorio
+# Codecepto
 
-> línea de bala
+> Prueba de extremo 2 sobrealimentado
+> Primer marco de pruebas impulsado por IA 🪄
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
