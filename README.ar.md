@@ -2,17 +2,17 @@ com.codecept
 
 # كوديسيبت
 
-> Supercharged End 2 End Testing
-> First AI-powered testing framework 🪄
+> Supercharged End 2 نهاية الاختبار
+> أول إطار اختبار مدعوم بالذكاء الاصطناعي 🪄
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
--   [المضيفين](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
--   [القياس عن بعد](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
