@@ -1,4 +1,4 @@
-Repository-Name
+repository-name
 
 # Repository-Name
 
@@ -10,10 +10,10 @@ Repository-Name
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
