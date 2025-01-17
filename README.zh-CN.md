@@ -1,4 +1,4 @@
-存储库名称
+repository-name
 
 # 存储库名称
 
@@ -31,6 +31,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
